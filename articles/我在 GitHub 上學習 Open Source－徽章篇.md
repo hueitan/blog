@@ -1,4 +1,4 @@
-_原文刊登於：PTT_
+_原文刊登於：https://www.ptt.cc/bbs/Soft_Job/M.1451964409.A.26C.html_
 
 我在 GitHub 上學習 Open Source－徽章篇
 ===
