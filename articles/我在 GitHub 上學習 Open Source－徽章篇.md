@@ -22,9 +22,9 @@ _原文刊登於：PTT_
 如果你的專案是 Open Source 開放的，Travis 提供一個免費的 CI 環境，讓你每 Commit 一次執行你設定好的 Bash，不過大家一般都還是拿來跑測試結果。Travis CI 支援各種程式語言，你只要在專案中產生一個文件 .travis.yml，設定好即可。以 A-V 的範例，跑完測試後，會執行 Coverage 再推上 Coveralls。
 
 網站：https://travis-ci.org/
-文件：https://docs.travis-ci.com/
-範例：https://travis-ci.org/huei90/angular-validation
-推薦：必學！必用！簡單上手。
+<br/>文件：https://docs.travis-ci.com/
+<br/>範例：https://travis-ci.org/huei90/angular-validation
+<br/>推薦：必學！必用！簡單上手。
 
 **[CodeClimate]**
 
@@ -33,9 +33,9 @@ _原文刊登於：PTT_
 有些檔案不需要被打分，這時候就要用到 .codeclimate.yml 檔案了，詳情請看文件。
 
 網站：https://codeclimate.com
-文件：https://docs.codeclimate.com/
-範例：https://codeclimate.com/github/huei90/angular-validation
-推薦：改到分數高在放上去比較可口。
+<br/>文件：https://docs.codeclimate.com/
+<br/>範例：https://codeclimate.com/github/huei90/angular-validation
+<br/>推薦：改到分數高在放上去比較可口。
 
 **[Coverage]**
 
@@ -44,34 +44,34 @@ _原文刊登於：PTT_
 就如我之前常常提到的測試，一旦你程式寫完後，測試的部分也完成了，但其實自己也不知道漏了哪些部份沒有寫上測試，這時候 Test Coverage 就能幫上你忙了！
 
 網站：https://coveralls.io
-文件：https://coveralls.zendesk.com/hc/en-us
-範例：https://coveralls.io/github/huei90/angular-validation
-推薦：我搞了一陣子才理解 Coverage 的運作，不過一旦學會，未來就沒什麼問題了。
+<br/>文件：https://coveralls.zendesk.com/hc/en-us
+<br/>範例：https://coveralls.io/github/huei90/angular-validation
+<br/>推薦：我搞了一陣子才理解 Coverage 的運作，不過一旦學會，未來就沒什麼問題了。
 
 **[David]**
 
 如果你有使用 npm 的話，這個徽章工具非常推薦，它會自動幫你檢查 package.json 中的 Dependencies 和 devDependencies 的版本號，並亮紅燈提醒你是時候更新了。使用越多的套件，你不可能一個一個去檢查版本號，這時候大衛先生絕對幫得上忙！
 
 網站：https://david-dm.org
-文件：無
-範例：https://david-dm.org/huei90/angular-validation#info=devDependencies
-推薦：一目了然，沒什麼難的
+<br/>文件：無
+<br/>範例：https://david-dm.org/huei90/angular-validation#info=devDependencies
+<br/>推薦：一目了然，沒什麼難的
 
 **[Gitter Chat]**
 
 之前文章我有簡單介紹到 Gitter 這個 Repo 聊天室，這個徽章其實只是提供一個快速連結到聊天室，僅此。（有時候會覺得提供徽章比提供一長串 URL 連接乾淨許多）
 
 網站：https://gitter.im
-文件：無
-範例：無
-推薦：根據專案需求
+<br/>文件：無
+<br/>範例：無
+<br/>推薦：根據專案需求
 
 **[Awesome Badge]**
 
 Awesome 系列在 GitHub 上潮了一整子，你今天 Awesome 了嗎？後來 Awesome 的作者提供了 Awesome 徽章，算是對 Awesome-XX 專案的一個認可。其實 Awesome 的作者很嚴格，並不是取名為 Awesome-XX 都能被列在 Awesome list 中－專案介紹、內容、成熟度等等的條件加總起來才有機會實質獲得 Awesome 的徽章。
 
 網站：https://github.com/sindresorhus/awesome
-推薦：有寫 Awesome 文的才需要
+<br/>推薦：有寫 Awesome 文的才需要
 
 **[MORE]**
 
@@ -80,7 +80,7 @@ Awesome 系列在 GitHub 上潮了一整子，你今天 Awesome 了嗎？後來 
 2. http://shields.io/
 
 每個專案都有屬於自己的徽章，
-去吧 去找尋茫茫之中屬於你專案的徽章 吧～
+<br/>去吧 去找尋茫茫之中屬於你專案的徽章 吧～
 
 **[END]**
 
