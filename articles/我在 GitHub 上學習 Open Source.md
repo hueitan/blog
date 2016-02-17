@@ -88,3 +88,7 @@ A-J 專案雖然不是我開始的，是我主動寄信給作者要求成為 Col
 ![12392000_10153727636737508_1740468054983685984_n](https://cloud.githubusercontent.com/assets/2560096/12133124/35d44fa8-b45d-11e5-8615-01183fb128a1.jpg)
 
 謝謝 PTT 上的各位！
+
+<hr/>
+
+[蛋頭先生提供的教學系列 Browse the How to Contribute to an Open Source Project on GitHub course.](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
