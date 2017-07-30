@@ -38,19 +38,19 @@ git clone <你已經 forked 好的 git 專案>
 
 git remote add <remote 名稱> <專案網址>
 
-把 remote 專案 fetch 下來
+把 remote 專案 fetch 下來<br/>
 git fetch <remote 名稱>
 
-同步原專案的 master 到我的分支
+同步原專案的 master 到我的分支<br/>
 git pull <remote 名稱> master
 
-我需要從原專案的 A 分支繼續開發並開新的分支 B
+我需要從原專案的 A 分支繼續開發並開新的分支 B<br/>
 git checkout -b B <remote 名稱>/A
 
-檢查所有 remote 的專案使用名稱和網址
+檢查所有 remote 的專案使用名稱和網址<br/>
 git remote -v
 
-官方文件
+官方文件<br/>
 https://git-scm.com/docs/git-remote
 
 其實不多，就只有這樣而已…
