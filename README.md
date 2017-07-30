@@ -7,6 +7,7 @@ Personal Blog Website (Power by README)
 - [我在 GitHub 上學習 Open Source－徽章篇](https://github.com/huei90/blog/blob/master/articles/%E6%88%91%E5%9C%A8%20GitHub%20%E4%B8%8A%E5%AD%B8%E7%BF%92%20Open%20Source%EF%BC%8D%E5%BE%BD%E7%AB%A0%E7%AF%87.md)
 - [我在 Vpon 的這一年](https://github.com/huei90/blog/blob/master/articles/%E6%88%91%E5%9C%A8%20Vpon%20%E7%9A%84%E9%80%99%E4%B8%80%E5%B9%B4.md)
 - [德國程序化廣告技術公司 Sociomantic Labs 工作心得](https://github.com/hueitan/blog/blob/master/articles/%E5%BE%B7%E5%9C%8B%E7%A8%8B%E5%BA%8F%E5%8C%96%E5%BB%A3%E5%91%8A%E6%8A%80%E8%A1%93%E5%85%AC%E5%8F%B8%20Sociomantic%20Labs%20%E5%B7%A5%E4%BD%9C%E5%BF%83%E5%BE%97.md)
+- [我在 GitHub 上學習 Open Source－git remote 遠端多人開發](https://github.com/hueitan/blog/blob/master/articles/%E6%88%91%E5%9C%A8%20GitHub%20%E4%B8%8A%E5%AD%B8%E7%BF%92%20Open%20Source%EF%BC%8Dgit%20remote%20%E9%81%A0%E7%AB%AF%E5%A4%9A%E4%BA%BA%E9%96%8B%E7%99%BC.md)
 
 ### 生活
 
