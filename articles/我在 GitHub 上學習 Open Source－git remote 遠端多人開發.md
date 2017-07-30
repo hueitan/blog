@@ -1,4 +1,4 @@
-_原文同時刊登於：<ptt 連結>_
+_原文同時刊登於：https://www.ptt.cc/bbs/Soft_Job/M.1501405328.A.6EC.html_
 
 我在 GitHub 上學習 Open Source－git remote 遠端多人開發
 ===
