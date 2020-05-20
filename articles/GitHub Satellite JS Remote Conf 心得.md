@@ -1,6 +1,6 @@
 _原文刊登於：https://www.ptt.cc/bbs/Soft_Job/M.1589834001.A.2E1.html_
 
-[心得] GitHub Satellite / JS Remote Conf 心得
+[心得] 參加線上活動心得 GitHub Satellite / JS Remote Conf
 ===
 
 **[COVID-19 a.k.a. 武漢病毒]**
