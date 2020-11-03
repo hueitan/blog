@@ -23,7 +23,7 @@ _原文刊登於：https://www.ptt.cc/bbs/Soft_Job/M.1451964409.A.26C.html_
 
 網站：https://travis-ci.org/
 <br/>文件：https://docs.travis-ci.com/
-<br/>範例：https://travis-ci.org/huei90/angular-validation
+<br/>範例：https://travis-ci.org/hueitan/angular-validation
 <br/>推薦：必學！必用！簡單上手。
 
 **[CodeClimate]**
@@ -34,7 +34,7 @@ _原文刊登於：https://www.ptt.cc/bbs/Soft_Job/M.1451964409.A.26C.html_
 
 網站：https://codeclimate.com
 <br/>文件：https://docs.codeclimate.com/
-<br/>範例：https://codeclimate.com/github/huei90/angular-validation
+<br/>範例：https://codeclimate.com/github/hueitan/angular-validation
 <br/>推薦：改到分數高在放上去比較可口。
 
 **[Coverage]**
@@ -45,7 +45,7 @@ _原文刊登於：https://www.ptt.cc/bbs/Soft_Job/M.1451964409.A.26C.html_
 
 網站：https://coveralls.io
 <br/>文件：https://coveralls.zendesk.com/hc/en-us
-<br/>範例：https://coveralls.io/github/huei90/angular-validation
+<br/>範例：https://coveralls.io/github/hueitan/angular-validation
 <br/>推薦：我搞了一陣子才理解 Coverage 的運作，不過一旦學會，未來就沒什麼問題了。
 
 **[David]**
@@ -54,7 +54,7 @@ _原文刊登於：https://www.ptt.cc/bbs/Soft_Job/M.1451964409.A.26C.html_
 
 網站：https://david-dm.org
 <br/>文件：無
-<br/>範例：https://david-dm.org/huei90/angular-validation#info=devDependencies
+<br/>範例：https://david-dm.org/hueitan/angular-validation#info=devDependencies
 <br/>推薦：一目了然，沒什麼難的
 
 **[Gitter Chat]**
@@ -86,8 +86,8 @@ Awesome 系列在 GitHub 上潮了一整子，你今天 Awesome 了嗎？後來 
 
 希望這篇介紹對於想要進入 Open Source 世界的朋友們有所幫助，一旦你的專案逐漸壯大起來，放上徽章也算是對它的一個肯定喔！（自己的專案自己救）
 
-這次要來工商一下，一直 po 在 PTT 實在不好意思，我在自己的 GitHub 上開了個 blog 的空間，對於我分享的文章有興趣的朋友，我來討星星和眼睛^^咯，眼睛了才能持續追蹤新的文章喔，嘿嘿呵哈嘿呵呵哈哈哈哈 < https://github.com/huei90/blog 。
+這次要來工商一下，一直 po 在 PTT 實在不好意思，我在自己的 GitHub 上開了個 blog 的空間，對於我分享的文章有興趣的朋友，我來討星星和眼睛^^咯，眼睛了才能持續追蹤新的文章喔，嘿嘿呵哈嘿呵呵哈哈哈哈 < https://github.com/hueitan/blog 。
 
-另外，開了一個 Issue，歡迎大家提供意見。https://github.com/huei90/blog/issues/1
+另外，開了一個 Issue，歡迎大家提供意見。https://github.com/hueitan/blog/issues/1
 
 結束，句點。
